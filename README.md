@@ -63,4 +63,4 @@ python tests_firmware_protocol.py    # parity-tested; firmware protocol matches 
 ![sockets](https://img.shields.io/badge/Sockets-TCP%20%2F%20UDP-a855f7?style=flat-square)
 ![threading](https://img.shields.io/badge/Threading-queues%20%26%20locks-7c3aed?style=flat-square)
 ![crc8](https://img.shields.io/badge/CRC--8-from%20scratch-ff2f9e?style=flat-square)
-![xor](https://img.shields.io/badge/Crypto%20basics-XOR%20cipher-d946ef?style=flat-square) als
+![xor](https://img.shields.io/badge/Crypto%20basics-XOR%20cipher-d946ef?style=flat-square) 

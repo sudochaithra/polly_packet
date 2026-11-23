@@ -1,4 +1,4 @@
-# ── ୨ৎ ── ᴘᴏʟʟʏ ᴘᴀᴄᴋᴇᴛ ── ୨ৎ ──
+# ── ୨ৎ ── POLLY PACKET ── ୨ৎ ──
 
 Imagine a pocket-sized smart compact mirror, except it's secretly a covert cyber pager sitting on your desk.<br>Built with MicroPython firmware for a Raspberry Pi Pico, plus a Python virtual TCP simulator.
 

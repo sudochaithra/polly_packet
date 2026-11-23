@@ -4,7 +4,7 @@ Imagine a pocket-sized smart compact mirror, except it's secretly a covert cyber
 
 <!-- ![demo](docs/demo.gif) -->
 
-## ✦ʚ♡ɞ✦ Architecture
+## ✦ʚ♡ɞ✦ ARCHITECTURE 
 
 ```
 polly_packet/
@@ -24,7 +24,7 @@ polly_packet/
 └── tests_firmware_protocol.py
 ```
 
-## ✦ʚ♡ɞ✦ Installation
+## ✦ʚ♡ɞ✦ INSTALLATION
 
 * **Simulator (Windows):** Python `3.9+`
 
@@ -46,18 +46,17 @@ mpremote cp firmware/main.py :
 python -m host.send_serial COM5 crit "hello from the laptop" --wait
 ```
 
-## ✦ʚ♡ɞ✦ Tests
+## ✦ʚ♡ɞ✦ TESTS 
 
 ```
 python tests_quick.py                # 5 tests; CRC, round trip, byte-by-byte, corruption, scrambler
 python tests_firmware_protocol.py    # parity-tested; firmware protocol matches the laptop's protocol
 ```
 
-## ✦ʚ♡ɞ✦ Skills
+## ✦ʚ♡ɞ✦ SKILLS
 ![system design](https://img.shields.io/badge/System%20design-pager%20%26%20watcher-f472b6?style=flat-square)
 ![protocol design](https://img.shields.io/badge/Protocol%20design-framing%20%26%20resync-e879a8?style=flat-square)
 ![honeypots](https://img.shields.io/badge/Security-honeypot%20detection-c4106f?style=flat-square)
-![threat modeling](https://img.shields.io/badge/Honest%20limits-documented-9d4edd?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.9+-ff69b4?style=flat-square&logo=python&logoColor=white)
 ![tkinter](https://img.shields.io/badge/tkinter-GUI%20%26%20canvas%20art-c084fc?style=flat-square)
 ![sockets](https://img.shields.io/badge/Sockets-TCP%20%2F%20UDP-a855f7?style=flat-square)
